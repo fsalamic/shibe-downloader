@@ -4,7 +4,7 @@ from os import mkdir,listdir
 latestnumber = 0
 folderfull = 0
 
-print("Shibe Downloader made by @bosniandoge\n")
+print("Shibe Downloader made by @fsalamic\n")
 print("Shibe downloaded from shibe.online\n")
 number = int(input("Enter how many shibe pictures u want : "))
 

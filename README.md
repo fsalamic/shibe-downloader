@@ -1,4 +1,4 @@
-# Shibe Downloader by @bosniandoge    
+# Shibe Downloader by @fsalamic    
 # Features of the program:
 
  - ability to download multiple dog (shibe) pictures by using the https://shibe.online API
@@ -17,7 +17,7 @@ sudo apt install python3-pip
 ```
 After installing the needed dependencies , do the following commands :
 ```
-git clone https://github.com/bosniandoge/shibe-downloader.git
+git clone https://github.com/fsalamic/shibe-downloader.git
 cd shibe-downloader
 ```
 Once you do these commands, you're good to go:
